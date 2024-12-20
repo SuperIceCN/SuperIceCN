@@ -85,7 +85,8 @@
 ###
 
 - Encrypto
-  * TetherUS (Polygon): `0x75634ac620a04ab7804b624d190df88e3f3ffd1e`
-  * Ethereum (Starknet): `0x06080c77f6942c712cbf6bf135b252ec45fdf2c84373dc6538a98c8b004220aa`
-
+  * Ethereum: `0x7294c09345ee5f9ee7c53fd388c4db5b7afd7c0c`
+  * Solana: `ASUNDPZH3xkF8G6vB2dLNYUtFN7MaWTbr5rqt5FYqchr`
+  * Sei Native: `sei16xwr42jaqyvdvfad0lwqwf6hzepq7u89hswzcv`
+- Afdian: https://afdian.com/a/superice
 ###
